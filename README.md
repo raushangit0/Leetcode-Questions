@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/raushangit0/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/raushangit0/Leetcode-Questions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/raushangit0/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## String
 |  |

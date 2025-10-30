@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/raushangit0/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1646-kth-missing-positive-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/raushangit0/Leetcode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1646-kth-missing-positive-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1646-kth-missing-positive-number) |
 ## Stack
 |  |
 | ------- |

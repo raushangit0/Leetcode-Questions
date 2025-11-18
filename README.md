@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/raushangit0/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/raushangit0/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/raushangit0/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1013-fibonacci-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/raushangit0/Leetcode-Questions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |

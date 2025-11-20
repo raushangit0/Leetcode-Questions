@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1646-kth-missing-positive-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/raushangit0/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/raushangit0/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/raushangit0/Leetcode-Questions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/raushangit0/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -158,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raushangit0/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->

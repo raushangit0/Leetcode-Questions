@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/raushangit0/Leetcode-Questions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

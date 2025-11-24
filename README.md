@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/raushangit0/Leetcode-Questions/tree/master/0058-length-of-last-word) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Trie
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/raushangit0/Leetcode-Questions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |

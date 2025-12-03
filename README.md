@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/raushangit0/Leetcode-Questions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/raushangit0/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/raushangit0/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/raushangit0/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raushangit0/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/raushangit0/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/raushangit0/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/raushangit0/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0213-house-robber-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/raushangit0/Leetcode-Questions/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/raushangit0/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0980-unique-paths-iii) |

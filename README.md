@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/raushangit0/Leetcode-Questions/tree/master/0162-find-peak-element) |
+| [0174-dungeon-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/raushangit0/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/raushangit0/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/raushangit0/Leetcode-Questions/tree/master/0070-climbing-stairs) |
+| [0174-dungeon-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/raushangit0/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/raushangit0/Leetcode-Questions/tree/master/0486-predict-the-winner) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/raushangit0/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/raushangit0/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0174-dungeon-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0980-unique-paths-iii) |
 | [2596-check-knight-tour-configuration](https://github.com/raushangit0/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |

@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/raushangit0/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/raushangit0/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0392-is-subsequence) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/raushangit0/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/raushangit0/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raushangit0/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/raushangit0/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/raushangit0/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0980-unique-paths-iii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

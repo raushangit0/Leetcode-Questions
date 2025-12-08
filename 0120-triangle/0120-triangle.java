@@ -10,9 +10,9 @@ class Solution {
         {
             for(int j = i ; j>=0 ; j--)
             {
-                int down = dp[i+1][j] + t.get(i).get(j);
-                int dig = dp[i+1][j+1] + t.get(i).get(j);
-                dp[i][j] = Math.min(down , dig);
+                int Ldig = dp[i+1][j] + t.get(i).get(j);
+                int Rdig = dp[i+1][j+1] + t.get(i).get(j);
+                dp[i][j] = Math.min(Ldig , Rdig);
             }
         }
         return dp[0][0];

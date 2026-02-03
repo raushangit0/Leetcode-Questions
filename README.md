@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0980-unique-paths-iii) |
 | [1646-kth-missing-positive-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1646-kth-missing-positive-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2574-left-and-right-sum-differences](https://github.com/raushangit0/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2596-check-knight-tour-configuration](https://github.com/raushangit0/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/raushangit0/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->

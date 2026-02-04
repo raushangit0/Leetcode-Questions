@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/raushangit0/Leetcode-Questions/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0392-is-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raushangit0/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Trie
 |  |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raushangit0/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [2574-left-and-right-sum-differences](https://github.com/raushangit0/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raushangit0/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->

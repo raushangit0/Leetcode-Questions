@@ -249,11 +249,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/raushangit0/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/raushangit0/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0210-course-schedule-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/raushangit0/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
@@ -281,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/raushangit0/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->

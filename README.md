@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0980-unique-paths-iii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0980-unique-paths-iii) |
+| [1514-path-with-maximum-probability](https://github.com/raushangit0/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1646-kth-missing-positive-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1646-kth-missing-positive-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2574-left-and-right-sum-differences](https://github.com/raushangit0/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raushangit0/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1514-path-with-maximum-probability](https://github.com/raushangit0/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -287,8 +289,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
+| [1514-path-with-maximum-probability](https://github.com/raushangit0/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/raushangit0/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->

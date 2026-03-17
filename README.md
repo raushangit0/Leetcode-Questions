@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/raushangit0/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/raushangit0/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/raushangit0/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/raushangit0/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raushangit0/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/raushangit0/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/raushangit0/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raushangit0/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/raushangit0/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [2574-left-and-right-sum-differences](https://github.com/raushangit0/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Sliding Window
 |  |

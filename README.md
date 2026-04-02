@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/raushangit0/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0740-delete-and-earn](https://github.com/raushangit0/Leetcode-Questions/tree/master/0740-delete-and-earn) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0980-unique-paths-iii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0980-unique-paths-iii) |
 | [1514-path-with-maximum-probability](https://github.com/raushangit0/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raushangit0/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/raushangit0/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/0567-permutation-in-string) |
+| [0740-delete-and-earn](https://github.com/raushangit0/Leetcode-Questions/tree/master/0740-delete-and-earn) |
 ## Linked List
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/raushangit0/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0518-coin-change-ii) |
+| [0740-delete-and-earn](https://github.com/raushangit0/Leetcode-Questions/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 ## Math
 |  |

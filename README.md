@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raushangit0/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/raushangit0/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/raushangit0/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/raushangit0/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/raushangit0/Leetcode-Questions/tree/master/0120-triangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/raushangit0/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/raushangit0/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/raushangit0/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/raushangit0/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/raushangit0/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/raushangit0/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/raushangit0/Leetcode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

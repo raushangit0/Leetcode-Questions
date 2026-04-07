@@ -1,20 +1,20 @@
 class Solution {
+    int n;
+    static Integer dp[][];
     public int minimumTotal(List<List<Integer>> t) {
-        int n = t.size();
-        int [][] dp = new int[n][n];
-        for(int j = 0 ;j < n ;j++)
+        n = t.size();
+        dp = new Integer[n+1][n+1];
+        return solveRec(0,0,n,t);
+    }
+    public int solveRec(int i , int j ,int n , List<List<Integer>>t)
+    {
+        if(i == n-1)
         {
-            dp[n-1][j] = t.get(n-1).get(j);
+            return t.get(i).get(j);
         }
-        for(int i = n-2 ; i >=0 ; i--)
-        {
-            for(int j = i ; j>=0 ; j--)
-            {
-                int Ldig = dp[i+1][j] + t.get(i).get(j);
-                int Rdig = dp[i+1][j+1] + t.get(i).get(j);
-                dp[i][j] = Math.min(Ldig , Rdig);
-            }
-        }
-        return dp[0][0];
+        if(dp[i][j] != null)return dp[i][j];
+        int down = t.get(i).get(j) + solveRec(i+1 , j , n, t);
+        int dig = t.get(i).get(j) + solveRec(i+1 , j+1 , n , t);
+        return dp[i][j] = Math.min(down , dig);
     }
 }

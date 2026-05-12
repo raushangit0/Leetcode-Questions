@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raushangit0/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2390-removing-stars-from-a-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/raushangit0/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/raushangit0/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [2390-removing-stars-from-a-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2390-removing-stars-from-a-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/raushangit0/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
 |  |

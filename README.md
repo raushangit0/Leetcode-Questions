@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/raushangit0/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/raushangit0/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/raushangit0/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/raushangit0/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raushangit0/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/raushangit0/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/raushangit0/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/raushangit0/Leetcode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/raushangit0/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/raushangit0/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
+| [0300-longest-increasing-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/raushangit0/Leetcode-Questions/tree/master/0486-predict-the-winner) |

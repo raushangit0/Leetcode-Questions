@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2574-left-and-right-sum-differences](https://github.com/raushangit0/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2596-check-knight-tour-configuration](https://github.com/raushangit0/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
+| [3838-weighted-word-mapping](https://github.com/raushangit0/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raushangit0/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
+| [3838-weighted-word-mapping](https://github.com/raushangit0/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/raushangit0/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
+| [3838-weighted-word-mapping](https://github.com/raushangit0/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |

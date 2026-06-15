@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/0148-sort-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raushangit0/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/0567-permutation-in-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |

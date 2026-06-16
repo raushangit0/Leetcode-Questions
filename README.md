@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/raushangit0/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/raushangit0/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/raushangit0/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/raushangit0/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raushangit0/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/raushangit0/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/raushangit0/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/raushangit0/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/raushangit0/Leetcode-Questions/tree/master/0486-predict-the-winner) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/raushangit0/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0210-course-schedule-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/raushangit0/Leetcode-Questions/tree/master/0322-coin-change) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/raushangit0/Leetcode-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2596-check-knight-tour-configuration](https://github.com/raushangit0/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0740-delete-and-earn](https://github.com/raushangit0/Leetcode-Questions/tree/master/0740-delete-and-earn) |
+| [0877-stone-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0980-unique-paths-iii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0980-unique-paths-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/raushangit0/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/raushangit0/Leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/raushangit0/Leetcode-Questions/tree/master/0740-delete-and-earn) |
+| [0877-stone-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/raushangit0/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/raushangit0/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/raushangit0/Leetcode-Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/raushangit0/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/raushangit0/Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/raushangit0/Leetcode-Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/raushangit0/Leetcode-Questions/tree/master/0877-stone-game) |
 ## Depth-First Search
 |  |
 | ------- |

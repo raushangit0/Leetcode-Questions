@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/raushangit0/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/raushangit0/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0392-is-subsequence) |
+| [0481-magical-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raushangit0/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/raushangit0/Leetcode-Questions/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/raushangit0/Leetcode-Questions/tree/master/0392-is-subsequence) |
+| [0481-magical-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raushangit0/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/raushangit0/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
